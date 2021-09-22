@@ -20,6 +20,10 @@
         </select>
         <button type="submit" name="submit" value="submit">Calucalte</button>
     </form>
+    
+    <p>test for commit</p>
+
+
     <p>The Answer is:</p>
 
 <?php 
